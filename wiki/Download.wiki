@@ -1,14 +1,10 @@
 #labels Featured
-#Download page.
+= Downloads =
 
-= Download =
+_Wii version (11.0)_
 
-Add your content here.
+https://code.google.com/p/fbzx-wii/source/browse/trunk/download/fbzx-wii-v11-bin.tar.gz
 
+_Windows version (11.0)_
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+https://code.google.com/p/fbzx-wii/source/browse/trunk/download/fbzx-wii-windows-v11-bin.tar.gz
