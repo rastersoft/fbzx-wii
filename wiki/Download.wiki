@@ -3,8 +3,8 @@
 
 _Wii version (11.0)_
 
-https://code.google.com/p/fbzx-wii/source/browse/trunk/download/fbzx-wii-v11-bin.tar.gz
+https://fbzx-wii.googlecode.com/svn/trunk/download/fbzx-wii-v11-bin.tar.gz
 
 _Windows version (11.0)_
 
-https://code.google.com/p/fbzx-wii/source/browse/trunk/download/fbzx-wii-windows-v11-bin.tar.gz
+https://fbzx-wii.googlecode.com/svn/trunk/download/fbzx-wii-windows-v11-bin.tar.gz
